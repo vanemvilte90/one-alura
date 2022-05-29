@@ -1,2 +1,2 @@
 # one-alura
-Oracle Next Education - Alura Latam - Programación F2T2
+Programa Oracle Next Education - Alura Latam - Programación F2T2
